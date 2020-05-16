@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+    direction: rtl;
+}
+
+body {
+    background-color: #000059;
+}
+
+select,
+option {
+    color: black;
+}
+
+code {
+    color: black;
+}
+
+h1,
+h2,
+h3,
+div,
+span,
+footer {
+    color: white;
+}
+
+#generate,
+option,
+select {
+    font-size: small;
+}
+
+.title {
+    font-size: 400%;
+}
+
+.subtitle {
+    font-size: 250%;
+}
+
+#role {
+    font-size: 200%;
+}
